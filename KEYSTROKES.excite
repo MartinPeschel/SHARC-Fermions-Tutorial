@@ -1,0 +1,11 @@
+                                         #Use file "initconds"? [True] 
+                                         #How should the excited-state lists be generated? [2] 
+.                                        #Path to ICOND directories: (autocomplete enabled) 
+no                                       #Do you want to use the diagonal representation (yes=diag, no=MCH)? 
+                                         #How should the excited states be flagged? [3] 
+5.0 10                                   #Range (eV): [0.0 10.0] 
+                                         #Lower state for excitation? [1] 
+                                         #Do you want to include all states in the selection? [True] 
+256                                      #RNG Seed:  [!] 
+                                         #Do you want to continue? [True] 
+true                                     #Overwrite initconds.excited?  [False] 

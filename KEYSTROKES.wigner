@@ -1,0 +1,1 @@
+python /opt/sw/qc/sharc/peschel-20240613/icc/2023/sharc/bin/wigner.py -n 50 freq.mld

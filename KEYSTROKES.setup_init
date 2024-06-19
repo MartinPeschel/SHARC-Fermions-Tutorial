@@ -1,0 +1,13 @@
+                                         #Use file "initconds"? [True] 
+                                         #Initial condition range: [1 50] 
+4 0 3                                    #Number of states: 
+11                                       #Interface number: 
+false                                    #Spin-Orbit calculation? [True] 
+                                         #Reference overlaps? [False] 
+                                         #Use this template file? [True] 
+/opt/sw/qc/cis_nto/master-20240613/icc/2023/cis_nto/build/bin #Path of cis_overlap directory: (autocomplete enabled) 
+                                         #Use this basis file? [True] 
+                                         #restart step [-1] 
+                                         #Use mode 1 (i.e., calculate here)? [True] 
+                                         #Generate submission script? [False] 
+                                         #Do you want to setup the specified calculations? [True] 
